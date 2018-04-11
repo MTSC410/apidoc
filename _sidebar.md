@@ -8,6 +8,8 @@
   - [GET /record](record/all.md)
   - [GET /total](record/total.md)
   - [GET /trail/record](record/trail.md)
+- Search
+  - [GET /search/title](search/title.md)
 - Ref
   - [GET /ref/city](ref/city.md)
   - [GET /ref/country](ref/country.md)
