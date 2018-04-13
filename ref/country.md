@@ -1,6 +1,6 @@
 # GET /ref/country
 
-Get reference of country
+Get reference of country. Country abreviations are used. 
 
 ## Resource URL
 
