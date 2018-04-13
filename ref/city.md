@@ -1,6 +1,6 @@
 # GET /ref/city
 
-Get reference of city
+Get reference of city.  Includes all cities in the database world wide.  To limit to specific cities request the proper country as well. 
 
 ## Resource URL
 
