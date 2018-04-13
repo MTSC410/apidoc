@@ -1,10 +1,10 @@
-# GET /ref/title
+# GET /ref/titlelevel
 
-Get reference of title
+Get reference of title levels.  
 
 ## Resource URL
 
-https://api.mountaintopdata.com/ref/title
+https://api.mountaintopdata.com/ref/titlelevel
 
 ## Request parameters
 
@@ -14,15 +14,15 @@ https://api.mountaintopdata.com/ref/title
 ## Request example
 
 ```http
-GET https://api.mountaintopdata.com/ref/title
+GET https://api.mountaintopdata.com/ref/titlelevel
 ```
 
 ## Response parameters
 
-| Field   | Type   | Description    |
-| ------- | ------ | -------------- |
-| data    | array  | title data list |
-| data[i] | object |                |
+| Field   | Type   | Description           |
+| ------- | ------ | --------------------- |
+| data    | array  | title level data list |
+| data[i] | object |                       |
 
 ## Response example
 
