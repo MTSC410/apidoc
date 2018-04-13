@@ -1,6 +1,6 @@
 # GET /ref/group
 
-Get reference of group
+Get reference of group.  This refers to specific pre identified departments or title Groups and is a much simpler and more common way to target these popular title groups than by individual title requests.  
 
 ## Resource URL
 
