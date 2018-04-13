@@ -1,6 +1,6 @@
 # GET /ref/state
 
-Get reference of state
+Get reference of state.  We use state abreviations for the United States and Canada. For other countries we use the state/province full name. 
 
 ## Resource URL
 
