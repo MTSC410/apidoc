@@ -2,7 +2,7 @@
 
 # Mountain Top Data Apidoc <small>v1.0</small>
 
-> A documentation site
+> Contains informaion on how to use the functions of the MountainTop Data API 
 
 * :cloud: :cloud: :cloud: :cloud:
 
