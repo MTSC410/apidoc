@@ -1,4 +1,4 @@
-# GET /record
+# GET /record.
 
 Get records.
 
