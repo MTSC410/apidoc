@@ -1,4 +1,4 @@
-# Apidoc
+# API Documentation
 
 ## Auth headers
 
