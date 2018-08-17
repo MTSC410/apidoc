@@ -1,4 +1,4 @@
-# API Documentation sc
+# API Documentation
 
 ## Auth headers
 
